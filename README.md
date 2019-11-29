@@ -12,8 +12,6 @@ Characteristics of Graphs in Brief: The basic components of the structure are:
 8. The graph must be strongly connected.
 
 
-![](https://drive.google.com/open?id=1unWTcA709RLItPkEWTCnOHX_FyK3j9f0)
-
 Program Interface Description: After the program is called, the user can interact with a prompt through which the following commands can be called:
 1. i (nsert) Ni introduced a new node Ni. 
 2. (i) n (sert) Ni Nj weight introduced an edge between Ni and Nj with weight weight. The nodes Ni and Nj may appear for the first time in the structure. 
