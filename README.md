@@ -8,12 +8,11 @@ Characteristics of Graphs in Brief: The basic components of the structure are:
 4. One node can be connected to one or many others. How big this crowd can be is not known and can naturally increase / decrease dynamically.
 5. New edges can be inserted at any time.
 6. There is generally no limit to the number of vertices and edges.
-7. Figure 1 shows a representative state of the structure. In this figure there is a transfer of 1,340 monetary units from the kji account to the kfc.
-8. The number of expected insertions / increments (and / or deletions) of vertices and edges in the structure is not known from the outset.
-9. The graph must be strongly connected.
+7. The number of expected insertions / increments (and / or deletions) of vertices and edges in the structure is not known from the outset.
+8. The graph must be strongly connected.
 
 
-![](Screenshot_4.png)
+![](https://drive.google.com/open?id=1unWTcA709RLItPkEWTCnOHX_FyK3j9f0)
 
 Program Interface Description: After the program is called, the user can interact with a prompt through which the following commands can be called:
 1. i (nsert) Ni introduced a new node Ni. 
